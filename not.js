@@ -1,4 +1,0 @@
-/* mysql
-shopleradmin
-Admin65. 
-*/
