@@ -1,0 +1,1 @@
+error: Kullanıcı Kayıt Sırasında Hata : {"error":{"code":"ER_NO_SUCH_TABLE","errno":1146,"index":0,"sql":"INSERT INTO `shoplershopdb`.`userstable` (`username`, `password`) VALUES ('kayıtolcam', 'sd')","sqlMessage":"Table 'shoplershopdb.userstable' doesn't exist","sqlState":"42S02"},"reqbody":{"password":"sd","username":"kayıtolcam"},"timestamp":"10/23/2021, 6:12:03 PM"}

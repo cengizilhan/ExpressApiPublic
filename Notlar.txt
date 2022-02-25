@@ -1,0 +1,6 @@
+tamamlananlar
+API
+*users> register /users http post> json username password
+*users> get /users get> users/id  or all
+*categories > get categories >
+*products > get products > id or all
