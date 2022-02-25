@@ -1,4 +1,4 @@
-# ExpressJSapi
+# Express.Js API
 
 NodeJS'de ExpressJS ile API sistemi yapıldı. Loglama için Winston kütüphanesi kullanıldı. API Dökümantasyonu için Swagger UI entegre edildi.
 MySql connection bilgileri ./api/db/index.js 3. satırdadır.
