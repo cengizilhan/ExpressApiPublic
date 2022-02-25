@@ -5,7 +5,7 @@ MySql connection bilgileri ./api/db/index.js 3. satırdadır.
 
 
 
-API'nın Swagger dökümantasyonuna bağlanmak için adrese tıklayınız: https://expressapi.onrender.com/api-docs/#/
+API'nin Swagger dökümantasyonuna bağlanmak için adrese tıklayınız: https://expressapi.onrender.com/api-docs/#/
 
 Kullanılan kütüphaneler:
 1) Winston Logger (Logging)
